@@ -1,0 +1,13 @@
+main {
+    background:#fff;
+    display:flex;
+    padding:10px;
+    justify-content:space-between;
+    margin-bottom:20px;
+    box-shadow:0 5px 10px rgba(0,0,0,0.4);
+}
+main input {}
+main input::placeholder {
+    font-size:0.875rem;
+}
+main button {}
